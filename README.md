@@ -4,6 +4,6 @@ This repository is my playground to practice and learn how to build REST APIs. I
 
 📫 **How to reach me:**
 
-| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="LinkedIn Logo" width="32">](https://br.linkedin.com/in/gustavo-medeiros-schmeller-44b95720b) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="GitHub Logo" width="34">](https://github.com/GustavoSchmeller) |
+| [<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/downloads/fg/brandg-business-in-logo-dsk-v03.png.original.png" alt="LinkedIn Logo" width="32">](https://br.linkedin.com/in/gustavo-medeiros-schmeller-44b95720b) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="GitHub Logo" width="34">](https://github.com/GustavoSchmeller) |
 |:---:|:---:|
 
